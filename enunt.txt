@@ -1,0 +1,11 @@
+Se da un fisier text. Fisierul contine exact 10.000 caractere utile. Se cere sa se realizeze un program in C/C++ care:
+
+a.Permite alegerea unui fisier de intrare prin specificarea numelui fisierului, ca parametru pe linia de comanda.
+
+b.Citeste continutul fisierului text,  caracter cu caracter, intr-un sir de caractere S0
+
+c.Citeste de la tastatura un sir de caractere S1 si elimina caracterele consecutive care se repeta (exemplu "aabccca" devine "abca").
+
+d.Foloseste algoritmul Knuth-Morris-Pratt pentru localizarea sirului modificat in sirul sursa citit din fisier (S0) si afiseaza pozitiile la care s-a gasit modelul in sursa
+
+e. Afiseaza intr-un fisier text valorile deplasarilor relative ale modelului in caz de nepotrivire (cu cate pozitii se deplaseaza modelul, in caz de nepotrivire). 
